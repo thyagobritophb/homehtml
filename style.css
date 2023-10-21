@@ -1,5 +1,17 @@
 h1{
     text-align: center;
+    font-size: 42px;
+    color: red;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(174, 173, 173);
+}
+p{
+    text-align:center;
+    font-size: 17px;
+    color: rgb(197, 191, 191);
 }
 img{
     height: 300px;
@@ -13,7 +25,7 @@ img:hover{
 
 }
 body{
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(14, 14, 14);
     color: rgb(136, 151, 151);
 
 }
@@ -23,8 +35,15 @@ body{
 .red:hover {
     color: red;
     font-size: 120%;
-}
-h1:hover{
-    font-size: 36px !important;
 
+}
+a{
+    text-decoration:solid;
+    color: rgb(141, 121, 9);
+    
+}
+ul{
+    text-decoration:solid;
+    color: rgb(181, 7, 13);
+    
 }
